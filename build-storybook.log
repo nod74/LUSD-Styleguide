@@ -21,298 +21,298 @@ Node.js version : v16.16.0
 
 Operating system : Windows 10
 
-[13:21:29] No configuration file found, switching to CLI flags.
-[13:21:29] Using tsconfig file : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\tsconfig.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.browserslistrc
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.editorconfig
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.gitignore
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\angular.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\build-storybook.log
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\documentation.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\jest.config.js
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\LICENSE
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\package-lock.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\package.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\tsconfig.app.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\README.md
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\tsconfig.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\tsconfig.spec.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.storybook\main.js
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.storybook\preview.js
-[13:21:29] Ignoring       : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.storybook\typings.d.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\jest-config\setup.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.storybook\tsconfig.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\favicon.ico
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\index.html
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\main.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\polyfills.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\styles.css
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\app\app.component.css
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\jest-config\__mocks__\fileMock.js
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\jest-config\__mocks__\globalMocks.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\jest-config\__mocks__\styleMock.js
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\app\app.component.html
-[13:21:29] Ignoring       : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\app\app.component.spec.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\app\app.component.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\app\app.module.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\.gitkeep
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\environments\environment.prod.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\environments\environment.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\button.component.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\button.css
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\Button.stories.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\header.css
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\header.component.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\Header.stories.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\Introduction.stories.mdx
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\page.css
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\page.component.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\Page.stories.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\User.ts
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Light-webfont.eot
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Light-webfont.ttf
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Light-webfont.svg
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Light-webfont.woff
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Regular-webfont.svg
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Regular-webfont.ttf
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Regular-webfont.eot
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Regular-webfont.woff
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\icon\percolate.svg
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\icon\percolate.eot
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\icon\percolate.woff
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\icon\percolate.ttf
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\colors.svg
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\code-brackets.svg
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\comments.svg
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\direction.svg
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\plugin.svg
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\flow.svg
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\stackalt.svg
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\repo.svg
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\012a1bfecb776fc6f322cbc51f5f65b3.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\05c314e87b3ea4205cb589120151b5e9.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\05a83f87adc6042eb5ef01d311f8dc36.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\069ea0da000e22d1b19e4be297e528fb.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\071424931c1a98ef9ae03747cd5d87ed.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\091da1c00f7d92a913f2cd6240e83a3f.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\0ae9a33ec0d2f95bbb8b3075c2628596.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\0b106c7f27a69a5b8497958370c669e4.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\0dfb6e7e25a2ab80d52fac8c45279147.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\0e20e6018fc17dc594a54fbe52dd91fb.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\0f23eb2dc944ea1994812db1cf06a72b.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\124092c1c55e90c928da4a745afe2f17.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\10bdef16b411247abc7cd6fa3e61401b.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\149ffa1532f88f04628755c687f96f55.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\1d1949512bf6e50fd1ce3ae7080ea426.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\15c65457552060381999ef22ade49b5a.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\1f68f9e7a72f28808e5325c6291a7fac.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\21760840d74ed42cd7554a8e9133b46a.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2180bb8122a7905de6427a4d4631df72.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\22ba6d4518ae70ad3b468fb32cee1f26.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\232dffc1760fadd375a958f74757448b.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\24f9df7d046953d0017aa1a7d5386e67.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2476d2cd4fc6e82e8551a58c305512b1.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2710242aaa7848a667318c87c07274fd.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\16853f7e4a18ef4c2a61f078176e744b.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\276e803ac7b2523d3f0b5288249e7249.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2b9ada8b966ba1dce286adc8b4e68743.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2d3cf1eaf8d001d3fe1b069680a20a8d.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2d45333d77862770827df754c5936e0f.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2dffa48c4c97c65d5811f6a099aba8b3.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2f2abee32279fb7851c41fbc5d7fce9c.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2f40c2afa201ace688fd59b85778bad0.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\326647812135185c0ea1436fce6150e8.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\34fb3e6f02aa9888ac532a6edbc25449.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\3766ef4c13078cac0e3e292a5664f1c3.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\38e861729874d3ae05b914e2b4d87c99.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\38e1b149c19703624fcfb16e78a9f9e4.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\359d46f71d75be35f10e8896fd20a220.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\3a175667fe8c0b899e0b21b6af619c9a.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\3d9661ac9c89e2fcf4ee0c8138140c68.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\3e7eaf08247f2cb4ba29862ded82e583.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\42c7d19ea4e51df0ce589ac610ea5df9.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\4210b21ca412cb135b37f7975bc3215d.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\4417de457a242cf69c12bba44e1f4b06.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\445691e7b3baf4543d5bc9b1c0c9fb9d.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\468b9a2a1c85059517d46b16b872ece6.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\4981dd94b2ab87444a64e2cc7895564e.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\51d6bd74582684c0a2e7f93dee5eccc0.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\4cd03faab9ac38e5b62bcf8042db632e.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\541719cac8c3d0eefb0485307c45fbd1.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\54a52e2ed99f2b076fc304a01f6a877a.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\5472add636f460baa9eabf421ec567c0.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\598e7cb9f2588cdec24d26b920836e38.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\54b3f598a986f216036aba50da5f265b.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\5ae775fe71f38fb2475c8739c352d5ed.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\5b125d33c7db319ed46f9bbac3488f7f.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\60810bb4745f79c2ef4af66b3f5a73c3.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\6149f6a141855085213e1d5a13c1792b.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\617d2250cf4780413376c576c59cc39a.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\6412dfc6332bfe2485b2aaf0715f1c18.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\664896ee1a48d8ce49353c7bbf063420.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\688d64b91164f519e79bc8b5928a23ff.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\6af0ab299789c50a8a1c236d65353705.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\6ca2cd53491b741008d4d77a856ec55e.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\6d1275d4411d81c46b22f1cfde061f60.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\6d249696c67614ffcb0baa1f6df69ade.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\71d8d13bc4c4ac351bb15ce3573eccf7.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\7363072d3614dc53a55b5b3d4cc691b2.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\70f237974a60f37578c3d90f11d1312f.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\7425d632f94fe27ed52480e8cffa6c0a.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\74afbf5761511b8dd52b45c7597d62ab.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\7b662f3f6723305c4092a40fb7f0a0c9.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\799423e29ffec03d863626eee1aa6d47.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\7d25b0fe5845664327422ad5513df44e.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\7e5a16ed9a0f59c87aab34d307113e72.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\8487c545b9dea3f8e0352601d289936a.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\849ee73f53c130aff337d56a57f20518.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\82fdc03ebff53c1340be5a3854aedfbd.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\852b8fc58895061808bd3727ddf99e1d.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\86b6aee54aa3ed3f9cc3b772f54a06cf.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\87021de957d87a34f5b7b35988e4d226.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\88e4b65808a47318894d96e3c0e7db90.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\8c3eb16e9f4b0329c9576f20a6198abc.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\8d54e45fa88c75e531077bddfcfc7509.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\8e85e52829f489e5bbe9d6766e542a3e.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\90e47ef4fbb6e69b36c9f24bf44d07b9.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\9126d599cacb04a2e63d0e858636e8ae.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\9243473852e3feab3a833c298f889a27.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\946a786a4285550c4b87e0149609df14.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\95889b0297416c415c601567b2b6c66c.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\9bf951079360a042c5f0ec9648e858b0.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\9b1586185ebcc51805c1283ee854c15a.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\9ec24eb30b1d5d0547fc9c524100583d.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\a18689cccb5e99477995b779cb8fc0be.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\a56409f0045b97500e29ed23447b7dad.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\a1bece7063a1abb45518979ead4a2964.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\a9e9b049575f2f60086285c8ae7d768d.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\a694094118a25edbdff9349f5546eda2.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\aaa0d00c007e2f314ed91b9a07d6fd2b.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ac54a1621d660349227c04af4fabf6a2.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\adb3f73e93a3b39f8a85f85ba764d5f8.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ab47b095d3daec3374966347f22a2ed7.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\aee39e4be2d86c0610eb1e53c042ab95.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\b1c027a86f06d836a4890c10a129c14d.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\b2a165d09a758beedbc6634dce8fdefb.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\b690688741d16e2dbc34261eb3b7d8a6.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\b7fc43dedc316903468ffd7db3f9abaf.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\b8e4bb439c2af8d1f7f94bb48d1b6710.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\b9a7d5bcdba82d21efa5d5feccda06f3.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\bbb452638846c1b17b11db6ca9fcfc73.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\be1d734f68901b2e88aa4111320f93b6.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c012e80e6bb9d01946d61a8f0d7b5752.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\bf280fe80e15ecc9c3cf1c0a1d8e2f77.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c12459a1838d04d29af3b6f71f327d6e.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c152f722fa45dd678bb77557f3c646a7.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c62612fd5f51f024ae5d0b4ab1876ca1.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c760dc8433a96e6bd673aa06bc0e18d1.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c5cc52b77e4f07fade5d05ed86253fd8.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c5d2c61a2fc95a562ae8d75c13e04091.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c88d3fefb41f69c6f2de6a52a453a529.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ca36874bf7649867224fe256f1760b25.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\cc3089965a719689778efa0f72470c78.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\cff1522fb4a08c0036f677b8ce900201.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\d5eee02544ed876cfc08118f9eb94840.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\dac5e598b9605a55d610f8faed9c2a4f.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\db2f0186db37b39d8752a3170c67f0f9.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\dd34623c054c07d825c73e33ac556835.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\e1eef06352cc27ae4427e9b84cfe9bca.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\e23c13d369ae99f9b33432832250e9b2.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\e58d44cc7f9ff5cdda0e7b77da50c2fe.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\e469db00506ad5729dd13ba8365be804.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\e9d5330cc2430c839b6019903fa7865d.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\e78f116b9eca0f3f7bc0f16fb3cb5964.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ed1b0128319ae8f007678d128f8060f7.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ed3d096011a4716b6ea0b37bbd49c11d.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\f1c8ee6a88d078cdeb25c53a6866c579.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ed40e29e24cee6038c51f239f3c0c615.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\f3813e515b3fb543d9e6fb8eebb427c1.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\f25e168f06b74e2017e732ca81bd5223.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\f2809f3ad3e70799775c52366e163af2.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\f401001624ad7cd7b5d16c2670b10093.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\f75ea6684c7471e7d83c9bd1003aef2f.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\fb606deaa142354689515bfd954b8c54.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\fa54c5100394165fcefe63b4c6d3ac4c.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\fa3b7a4a705b7847b584900ea6a82679.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\fe7385f3952c7ee3048b14ef8b64bdd2.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\fe8150142a96dad87cad0b5b089036ca.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ff116a0d6b1586547524d3b26944ad7b.json
-[13:21:29] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\fed2eed6925389f316ccb09fd7e3fd8b.json
-[13:21:29] Searching package.json file
-[13:21:29] package.json file found
-[13:21:29] Processing package.json dependencies
-[13:21:29] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
-[13:21:29] README.md file found
-[13:21:29] Error during C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\CHANGELOG read
-[13:21:29] Continuing without CHANGELOG.md file
-[13:21:29] Error during C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\CONTRIBUTING read
-[13:21:29] Continuing without CONTRIBUTING.md file
-[13:21:29] LICENSE.md file found
-[13:21:29] Error during C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\TODO read
-[13:21:29] Continuing without TODO.md file
-[13:21:29] Get dependencies data
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/jest-config/setup.ts
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/main.ts
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/polyfills.ts
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/jest-config/__mocks__/globalMocks.ts
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/app/app.component.ts
-[13:21:29] found          : AppComponent
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/app/app.module.ts
-[13:21:29] found          : AppModule
-[13:21:29]                : - imports:
-[13:21:29]                : 	- BrowserModule
-[13:21:29]                : - declarations:
-[13:21:29]                : 	- AppComponent
-[13:21:29]                : - bootstrap:
-[13:21:29]                : 	- AppComponent
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/environments/environment.prod.ts
-[13:21:29] found          : environment
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/environments/environment.ts
-[13:21:29] found          : environment
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/button.component.ts
-[13:21:29] found          : ButtonComponent
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/Button.stories.ts
-[13:21:29] found          : Template
-[13:21:29] found          : Primary
-[13:21:29] found          : Secondary
-[13:21:29] found          : Large
-[13:21:29] found          : Small
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/header.component.ts
-[13:21:29] found          : HeaderComponent
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/Header.stories.ts
-[13:21:29] found          : Template
-[13:21:29] found          : LoggedIn
-[13:21:29] found          : LoggedOut
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/page.component.ts
-[13:21:29] found          : PageComponent
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/Page.stories.ts
-[13:21:29] found          : Template
-[13:21:29] found          : LoggedOut
-[13:21:29] found          : LoggedIn
-[13:21:29] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/User.ts
-[13:21:29] found          : User
-[13:21:29] -------------------
-[13:21:29] Project statistics 
-[13:21:29] - files      : 213
-[13:21:29] - module     : 1
-[13:21:29] - component  : 4
-[13:21:29] - interface  : 1
-[13:21:29] -------------------
-[13:21:29] Prepare components
-[13:21:29]  AppComponent has a templateUrl, include it
-[13:21:29]  AppComponent has styleUrls, include them
-[13:21:29]  ButtonComponent has styleUrls, include them
-[13:21:29]  HeaderComponent has styleUrls, include them
-[13:21:29]  PageComponent has styleUrls, include them
-[13:21:29] Prepare modules
-[13:21:29] Prepare interfaces
-[13:21:29] Prepare miscellaneous
-[13:21:29] Process documentation coverage report
-[13:21:29] Generating documentation in export format json
-[13:21:29] Documentation generated in ./ in 0.436 seconds
+[13:29:56] No configuration file found, switching to CLI flags.
+[13:29:56] Using tsconfig file : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\tsconfig.json
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.browserslistrc
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.editorconfig
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.gitignore
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\angular.json
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\build-storybook.log
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\documentation.json
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\LICENSE
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\jest.config.js
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\package-lock.json
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\package.json
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\README.md
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\tsconfig.app.json
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\tsconfig.json
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\tsconfig.spec.json
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.storybook\main.js
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.storybook\preview.js
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.storybook\tsconfig.json
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\jest-config\setup.ts
+[13:29:56] Ignoring       : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.storybook\typings.d.ts
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\favicon.ico
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\index.html
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\polyfills.ts
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\styles.css
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\main.ts
+[13:29:56] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\app\app.component.css
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\app\app.component.html
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\app\app.component.ts
+[13:29:57] Ignoring       : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\app\app.component.spec.ts
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\app\app.module.ts
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\jest-config\__mocks__\fileMock.js
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\jest-config\__mocks__\globalMocks.ts
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\.gitkeep
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\jest-config\__mocks__\styleMock.js
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\environments\environment.prod.ts
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\environments\environment.ts
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\button.component.ts
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\button.css
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\Button.stories.ts
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\header.component.ts
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\Introduction.stories.mdx
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\header.css
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\page.component.ts
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\page.css
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\Page.stories.ts
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\User.ts
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\Header.stories.ts
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Light-webfont.svg
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Light-webfont.eot
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Light-webfont.woff
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Regular-webfont.eot
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Regular-webfont.svg
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Regular-webfont.ttf
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Light-webfont.ttf
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\font\OpenSans-Regular-webfont.woff
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\icon\percolate.eot
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\icon\percolate.svg
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\icon\percolate.woff
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\code-brackets.svg
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\assets\icon\percolate.ttf
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\colors.svg
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\comments.svg
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\direction.svg
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\flow.svg
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\plugin.svg
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\stackalt.svg
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\src\stories\assets\repo.svg
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\05a83f87adc6042eb5ef01d311f8dc36.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\012a1bfecb776fc6f322cbc51f5f65b3.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\05c314e87b3ea4205cb589120151b5e9.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\071424931c1a98ef9ae03747cd5d87ed.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\091da1c00f7d92a913f2cd6240e83a3f.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\0ae9a33ec0d2f95bbb8b3075c2628596.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\0dfb6e7e25a2ab80d52fac8c45279147.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\0b106c7f27a69a5b8497958370c669e4.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\0e20e6018fc17dc594a54fbe52dd91fb.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\069ea0da000e22d1b19e4be297e528fb.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\0f23eb2dc944ea1994812db1cf06a72b.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\10bdef16b411247abc7cd6fa3e61401b.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\124092c1c55e90c928da4a745afe2f17.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\15c65457552060381999ef22ade49b5a.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\16853f7e4a18ef4c2a61f078176e744b.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\149ffa1532f88f04628755c687f96f55.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\1d1949512bf6e50fd1ce3ae7080ea426.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\1f68f9e7a72f28808e5325c6291a7fac.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\21760840d74ed42cd7554a8e9133b46a.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2180bb8122a7905de6427a4d4631df72.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\22ba6d4518ae70ad3b468fb32cee1f26.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\232dffc1760fadd375a958f74757448b.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2476d2cd4fc6e82e8551a58c305512b1.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\24f9df7d046953d0017aa1a7d5386e67.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\276e803ac7b2523d3f0b5288249e7249.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2710242aaa7848a667318c87c07274fd.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2b9ada8b966ba1dce286adc8b4e68743.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2d45333d77862770827df754c5936e0f.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2dffa48c4c97c65d5811f6a099aba8b3.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2d3cf1eaf8d001d3fe1b069680a20a8d.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2f2abee32279fb7851c41fbc5d7fce9c.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\2f40c2afa201ace688fd59b85778bad0.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\326647812135185c0ea1436fce6150e8.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\359d46f71d75be35f10e8896fd20a220.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\34fb3e6f02aa9888ac532a6edbc25449.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\3766ef4c13078cac0e3e292a5664f1c3.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\38e1b149c19703624fcfb16e78a9f9e4.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\38e861729874d3ae05b914e2b4d87c99.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\3d9661ac9c89e2fcf4ee0c8138140c68.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\3a175667fe8c0b899e0b21b6af619c9a.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\4210b21ca412cb135b37f7975bc3215d.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\3e7eaf08247f2cb4ba29862ded82e583.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\42c7d19ea4e51df0ce589ac610ea5df9.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\4417de457a242cf69c12bba44e1f4b06.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\445691e7b3baf4543d5bc9b1c0c9fb9d.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\468b9a2a1c85059517d46b16b872ece6.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\4981dd94b2ab87444a64e2cc7895564e.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\51d6bd74582684c0a2e7f93dee5eccc0.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\541719cac8c3d0eefb0485307c45fbd1.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\4cd03faab9ac38e5b62bcf8042db632e.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\5472add636f460baa9eabf421ec567c0.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\54a52e2ed99f2b076fc304a01f6a877a.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\5ae775fe71f38fb2475c8739c352d5ed.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\54b3f598a986f216036aba50da5f265b.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\598e7cb9f2588cdec24d26b920836e38.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\60810bb4745f79c2ef4af66b3f5a73c3.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\5b125d33c7db319ed46f9bbac3488f7f.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\6149f6a141855085213e1d5a13c1792b.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\617d2250cf4780413376c576c59cc39a.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\688d64b91164f519e79bc8b5928a23ff.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\664896ee1a48d8ce49353c7bbf063420.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\6412dfc6332bfe2485b2aaf0715f1c18.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\6af0ab299789c50a8a1c236d65353705.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\6ca2cd53491b741008d4d77a856ec55e.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\6d1275d4411d81c46b22f1cfde061f60.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\6d249696c67614ffcb0baa1f6df69ade.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\70f237974a60f37578c3d90f11d1312f.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\71d8d13bc4c4ac351bb15ce3573eccf7.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\7363072d3614dc53a55b5b3d4cc691b2.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\7425d632f94fe27ed52480e8cffa6c0a.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\799423e29ffec03d863626eee1aa6d47.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\74afbf5761511b8dd52b45c7597d62ab.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\7d25b0fe5845664327422ad5513df44e.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\7b662f3f6723305c4092a40fb7f0a0c9.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\7e5a16ed9a0f59c87aab34d307113e72.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\82fdc03ebff53c1340be5a3854aedfbd.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\849ee73f53c130aff337d56a57f20518.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\8487c545b9dea3f8e0352601d289936a.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\852b8fc58895061808bd3727ddf99e1d.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\86b6aee54aa3ed3f9cc3b772f54a06cf.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\88e4b65808a47318894d96e3c0e7db90.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\87021de957d87a34f5b7b35988e4d226.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\8c3eb16e9f4b0329c9576f20a6198abc.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\8d54e45fa88c75e531077bddfcfc7509.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\9126d599cacb04a2e63d0e858636e8ae.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\8e85e52829f489e5bbe9d6766e542a3e.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\90e47ef4fbb6e69b36c9f24bf44d07b9.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\9243473852e3feab3a833c298f889a27.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\9b1586185ebcc51805c1283ee854c15a.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\946a786a4285550c4b87e0149609df14.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\95889b0297416c415c601567b2b6c66c.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\9bf951079360a042c5f0ec9648e858b0.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\a18689cccb5e99477995b779cb8fc0be.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\9ec24eb30b1d5d0547fc9c524100583d.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\a1bece7063a1abb45518979ead4a2964.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\a694094118a25edbdff9349f5546eda2.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\a9e9b049575f2f60086285c8ae7d768d.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\a56409f0045b97500e29ed23447b7dad.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\aaa0d00c007e2f314ed91b9a07d6fd2b.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ab47b095d3daec3374966347f22a2ed7.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ac54a1621d660349227c04af4fabf6a2.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\adb3f73e93a3b39f8a85f85ba764d5f8.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\b1c027a86f06d836a4890c10a129c14d.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\b2a165d09a758beedbc6634dce8fdefb.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\aee39e4be2d86c0610eb1e53c042ab95.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\b690688741d16e2dbc34261eb3b7d8a6.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\b8e4bb439c2af8d1f7f94bb48d1b6710.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\b7fc43dedc316903468ffd7db3f9abaf.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\b9a7d5bcdba82d21efa5d5feccda06f3.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\bbb452638846c1b17b11db6ca9fcfc73.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\bf280fe80e15ecc9c3cf1c0a1d8e2f77.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\be1d734f68901b2e88aa4111320f93b6.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c012e80e6bb9d01946d61a8f0d7b5752.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c12459a1838d04d29af3b6f71f327d6e.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c152f722fa45dd678bb77557f3c646a7.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c5cc52b77e4f07fade5d05ed86253fd8.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c5d2c61a2fc95a562ae8d75c13e04091.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c760dc8433a96e6bd673aa06bc0e18d1.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c88d3fefb41f69c6f2de6a52a453a529.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ca36874bf7649867224fe256f1760b25.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\c62612fd5f51f024ae5d0b4ab1876ca1.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\cc3089965a719689778efa0f72470c78.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\cff1522fb4a08c0036f677b8ce900201.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\d5eee02544ed876cfc08118f9eb94840.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\dac5e598b9605a55d610f8faed9c2a4f.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\db2f0186db37b39d8752a3170c67f0f9.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\dd34623c054c07d825c73e33ac556835.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\e1eef06352cc27ae4427e9b84cfe9bca.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\e23c13d369ae99f9b33432832250e9b2.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\e469db00506ad5729dd13ba8365be804.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\e58d44cc7f9ff5cdda0e7b77da50c2fe.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\e78f116b9eca0f3f7bc0f16fb3cb5964.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ed1b0128319ae8f007678d128f8060f7.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\e9d5330cc2430c839b6019903fa7865d.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ed3d096011a4716b6ea0b37bbd49c11d.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ed40e29e24cee6038c51f239f3c0c615.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\f1c8ee6a88d078cdeb25c53a6866c579.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\f2809f3ad3e70799775c52366e163af2.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\f25e168f06b74e2017e732ca81bd5223.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\f3813e515b3fb543d9e6fb8eebb427c1.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\f401001624ad7cd7b5d16c2670b10093.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\f75ea6684c7471e7d83c9bd1003aef2f.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\fa3b7a4a705b7847b584900ea6a82679.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\fa54c5100394165fcefe63b4c6d3ac4c.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\fb606deaa142354689515bfd954b8c54.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\fe7385f3952c7ee3048b14ef8b64bdd2.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\fe8150142a96dad87cad0b5b089036ca.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\fed2eed6925389f316ccb09fd7e3fd8b.json
+[13:29:57] Including      : C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\.angular\cache\13.3.7\babel-webpack\ff116a0d6b1586547524d3b26944ad7b.json
+[13:29:57] Searching package.json file
+[13:29:57] package.json file found
+[13:29:57] Processing package.json dependencies
+[13:29:57] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[13:29:57] README.md file found
+[13:29:57] Error during C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\CHANGELOG read
+[13:29:57] Continuing without CHANGELOG.md file
+[13:29:57] Error during C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\CONTRIBUTING read
+[13:29:57] Continuing without CONTRIBUTING.md file
+[13:29:57] LICENSE.md file found
+[13:29:57] Error during C:\Users\lachnit\Documents\GitHub\LUSD-Styleguide\TODO read
+[13:29:57] Continuing without TODO.md file
+[13:29:57] Get dependencies data
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/jest-config/setup.ts
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/polyfills.ts
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/main.ts
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/app/app.component.ts
+[13:29:57] found          : AppComponent
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/app/app.module.ts
+[13:29:57] found          : AppModule
+[13:29:57]                : - imports:
+[13:29:57]                : 	- BrowserModule
+[13:29:57]                : - declarations:
+[13:29:57]                : 	- AppComponent
+[13:29:57]                : - bootstrap:
+[13:29:57]                : 	- AppComponent
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/jest-config/__mocks__/globalMocks.ts
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/environments/environment.prod.ts
+[13:29:57] found          : environment
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/environments/environment.ts
+[13:29:57] found          : environment
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/button.component.ts
+[13:29:57] found          : ButtonComponent
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/Button.stories.ts
+[13:29:57] found          : Template
+[13:29:57] found          : Primary
+[13:29:57] found          : Secondary
+[13:29:57] found          : Large
+[13:29:57] found          : Small
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/header.component.ts
+[13:29:57] found          : HeaderComponent
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/page.component.ts
+[13:29:57] found          : PageComponent
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/Page.stories.ts
+[13:29:57] found          : Template
+[13:29:57] found          : LoggedOut
+[13:29:57] found          : LoggedIn
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/User.ts
+[13:29:57] found          : User
+[13:29:57] parsing        : C:/Users/lachnit/Documents/GitHub/LUSD-Styleguide/src/stories/Header.stories.ts
+[13:29:57] found          : Template
+[13:29:57] found          : LoggedIn
+[13:29:57] found          : LoggedOut
+[13:29:57] -------------------
+[13:29:57] Project statistics 
+[13:29:57] - files      : 213
+[13:29:57] - module     : 1
+[13:29:57] - component  : 4
+[13:29:57] - interface  : 1
+[13:29:57] -------------------
+[13:29:57] Prepare components
+[13:29:57]  AppComponent has a templateUrl, include it
+[13:29:57]  AppComponent has styleUrls, include them
+[13:29:57]  ButtonComponent has styleUrls, include them
+[13:29:57]  HeaderComponent has styleUrls, include them
+[13:29:57]  PageComponent has styleUrls, include them
+[13:29:57] Prepare modules
+[13:29:57] Prepare interfaces
+[13:29:57] Prepare miscellaneous
+[13:29:57] Process documentation coverage report
+[13:29:57] Generating documentation in export format json
+[13:29:57] Documentation generated in ./ in 0.455 seconds
 info @storybook/angular v6.5.9
 info 
-info => Cleaning outputDir: C:\Users\lachnit\AppData\Local\Temp\chromatic--39852-b0b5Vsb5kuz3
+info => Cleaning outputDir: C:\Users\lachnit\AppData\Local\Temp\chromatic--37712-7TX1lc2jMuPI
 info => Loading presets
 info => Compiling manager..
 info => Compiling preview..
@@ -325,13 +325,13 @@ WARN Read more at:
 WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#sb-angular-builder)
 WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#angular13)
 info => Using angular project "taskbox:build" for configuring Storybook
-(node:25244) DeprecationWarning: Default PostCSS plugins are deprecated. When switching to '@storybook/addon-postcss',
+(node:39628) DeprecationWarning: Default PostCSS plugins are deprecated. When switching to '@storybook/addon-postcss',
 you will need to add your own plugins, such as 'postcss-flexbugs-fixes' and 'autoprefixer'.
 
 See https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated-default-postcss-plugins for details.
 (Use `node --trace-deprecation ...` to show where the warning was created)
 info => Using default Webpack4 setup
-info => Manager built (4.73 s)
+info => Manager built (4.68 s)
 ERR! WebpackOptionsValidationError: Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema.
 ERR!  - configuration.module.rules[8].rules[0].oneOf[1].type should be one of these:
 ERR!    "javascript/auto" | "javascript/dynamic" | "javascript/esm" | "json" | "webassembly/experimental"
