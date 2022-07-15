@@ -15,3 +15,14 @@ module.exports = {
     interactionsDebugger: true,
   },
 };
+
+// .storybook/main.js
+
+module.exports = {
+  stories: ['../src/**/*.stories.mdx', '../src/**/*.stories.@(js|jsx|ts|tsx)'],
+  addons: [
+    // Other Storybook addons
+    '@storybook/addon-a11y', //👈 The a11y addon goes here
+  ],
+};
+
